@@ -28,15 +28,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.mint.samplemenu.MainActivity" />
         </activity>
-        <activity
-            android:name=".New2Activity"
-            android:label="@string/title_activity_new2"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.mint.samplemenu.MainActivity" />
-        </activity>
     </application>
 
 </manifest>
